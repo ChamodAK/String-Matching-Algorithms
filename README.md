@@ -6,3 +6,5 @@ Several string matching algorithms in JAVA and C
 * Naive String Matching
 * Rabin Karp Algorithm
 * Longest Increasing Sequence
+* Longest Increasing Subsequence
+* Longest Zigzag Subsequence
